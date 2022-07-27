@@ -1,0 +1,57 @@
+{
+	"workbench.colorTheme": "Community Material Theme Palenight High Contrast",
+	"color-highlight.markerType": "underline",
+	"workbench.iconTheme": "eq-material-theme-icons-palenight",
+	"emmet.extensionsPath": [""],
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+	"editor.fontLigatures": true,
+	"explorer.confirmDelete": false,
+	"workbench.activityBar.visible": true,
+	"workbench.statusBar.visible": true,
+	"editor.minimap.enabled": false,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"eslint.format.enable": true,
+	"editor.formatOnPaste": true,
+	"powermode.enableShake": false,
+	"powermode.enabled": true,
+	"powermode.explosionSize": 5,
+	"prettier.useTabs": true,
+	"prettier.singleQuote": true,
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"editor.tabSize": 4
+	},
+
+	"prettier.jsxSingleQuote": true,
+	"editor.formatOnSave": true,
+	"python.poetryPath": "/Users/mleng/.local/bin/poetry",
+	"python.linting.flake8Path": "/Users/mleng/.local/bin/flake8",
+	"python.formatting.blackPath": "/Users/mleng/.local/bin/black",
+	"python.formatting.provider": "black",
+	"python.linting.flake8Enabled": true,
+	"python.linting.enabled": true,
+	"workbench.editorAssociations": {
+		"*.ipynb": "jupyter.notebook.ipynb"
+	},
+	"vscode-pets.petSize": "medium",
+	"vscode-pets.petType": "dog",
+	"vscode-pets.petColor": "black",
+	"security.workspace.trust.untrustedFiles": "open",
+	"diffEditor.ignoreTrimWhitespace": false,
+	"tabnine.experimentalAutoImports": true,
+	"powermode.shake.enabled": false,
+	"powermode.explosions.size": 5,
+	"powermode.explosions.frequency": 1,
+	"[python]": {
+		"editor.defaultFormatter": "ms-python.python"
+	},
+	"files.trimTrailingWhitespace": true,
+	"python.linting.mypyPath": "/Users/mleng/.local/bin/mypy",
+	"python.linting.mypyEnabled": true,
+	"window.zoomLevel": 1,
+	"terminal.external.osxExec": "iTerm.app",
+	"terminal.integrated.defaultProfile.osx": "zsh"
+}
